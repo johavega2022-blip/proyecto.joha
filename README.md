@@ -11,3 +11,4 @@ un clon sencillo del juego de minecraft en 2d desarrollado en python
 ##como ejecutar el juego
 1. instalar dependencias:"pip install pygame"
 2. ejecutar el archivo principal: "python main.py"
+## Notas del proyecto
