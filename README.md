@@ -13,3 +13,5 @@ un clon sencillo del juego de minecraft en 2d desarrollado en python
 2. ejecutar el archivo principal: "python main.py"
 ## Notas del proyecto
 ## Autor : Joha
+## Tomado de un libro
+
